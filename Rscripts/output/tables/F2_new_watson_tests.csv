@@ -1,0 +1,4 @@
+"comparison","watson_U2","p_value"
+"WT vs. mutant",1.2328212247188,"P-value < 0.001"
+"WT vs. heterozygous",0.386238163205381,"P-value < 0.001"
+"Heterozygous vs. mutant",1.14042602074459,"P-value < 0.001"

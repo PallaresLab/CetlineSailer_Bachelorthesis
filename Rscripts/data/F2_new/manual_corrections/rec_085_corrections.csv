@@ -1,0 +1,21 @@
+plate_well,action,ecl_time
+2_A12,reset_to_NA,
+1_A4,reset_to_NA,
+1_B12,reset_to_NA,
+1_C12,reset_to_NA,
+1_C9,reset_to_NA,
+1_D11,reset_to_NA,
+1_D8,reset_to_NA,
+1_E11,reset_to_NA,
+1_E12,reset_to_NA,
+1_G7,reset_to_NA,
+1_H1,reset_to_NA,
+1_H7,reset_to_NA,
+2_D8,reset_to_NA,
+2_E5,reset_to_NA,
+2_H11,reset_to_NA,
+2_A2,manual_override,2026-06-25 15:40
+1_E7,manual_override,2026-06-24 19:50
+2_E1,manual_override,2026-06-25 00:20
+2_E8,manual_override,2026-06-24 23:40
+2_F7,manual_override,2026-06-24 15:10

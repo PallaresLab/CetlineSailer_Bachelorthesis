@@ -1,0 +1,50 @@
+plate_well,action,ecl_time
+2_C8,keep_detected,
+2_C9,keep_detected,
+2_A11,keep_detected,
+2_A1,manual_override,2026-06-26 00:50
+2_A4,manual_override,2026-06-26 03:50
+2_A7,manual_override,2026-06-26 10:10
+2_A8,manual_override,2026-06-26 14:40
+2_A10,manual_override,2026-06-26 06:20
+2_A11,manual_override,2026-06-26 22:00
+2_A12,manual_override,2026-06-26 08:00
+2_B2,manual_override,2026-06-25 18:20
+2_B3,manual_override,2026-06-25 18:40
+2_B5,manual_override,2026-06-25 22:30
+2_B6,manual_override,2026-06-25 21:10
+2_B10,manual_override,2026-06-26 13:10
+2_C1,manual_override,2026-06-26 06:20
+2_C3,manual_override,2026-06-25 19:40
+2_C6,manual_override,2026-06-26 06:30
+2_C7,manual_override,2026-06-26 15:30
+2_C10,manual_override,2026-06-26 03:40
+2_C11,manual_override,2026-06-26 09:00
+2_C12,manual_override,2026-06-26 09:00
+2_C8,manual_override,2026-06-26 08:50
+2_C9,manual_override,2026-06-26 07:30
+2_D3,manual_override,2026-06-25 17:30
+2_D6,manual_override,2026-06-26 01:50
+2_E1,manual_override,2026-06-25 23:20
+2_E2,manual_override,2026-06-26 09:10
+2_E3,manual_override,2026-06-26 07:30
+2_E6,manual_override,2026-06-25 23:50
+2_E7,manual_override,2026-06-26 07:40
+2_E9,manual_override,2026-06-26 09:00
+2_F12,manual_override,2026-06-25 16:30
+2_F2,manual_override,2026-06-26 09:50
+2_F3,manual_override,2026-06-26 03:00
+2_F7,manual_override,2026-06-26 05:30
+2_G1,manual_override,2026-06-26 08:10
+2_G12,manual_override,2026-06-26 07:30
+2_G7,manual_override,2026-06-26 06:50
+2_H1,manual_override,2026-06-26 16:20
+2_H11,manual_override,2026-06-25 17:10
+2_H7,manual_override,2026-06-25 18:20
+2_H8,manual_override,2026-06-25 22:20
+2_H9,manual_override,2026-06-25 23:20
+2_H2,manual_override,2026-06-25 16:50
+1_A10,manual_override,2026-06-26 00:00
+1_A4,manual_override,2026-06-25 19:30
+1_C2,manual_override,2026-06-26 03:40
+1_E10,manual_override,2026-06-25 20:50
