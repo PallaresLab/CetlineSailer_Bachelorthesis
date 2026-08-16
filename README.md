@@ -14,7 +14,7 @@ The project focuses on the effect of the **tim01 mutation** and investigates whe
 ```text
 .
 ├──Rscripts/ 
-│   ├── data    -> P0, F2_old, F2_new
+│   ├── data    -> P0, F2_old, F2_new, Supplementary agarose gels
 │   ├── output  -> figures, tables
 │   ├── scripts
 │   └── README.md
