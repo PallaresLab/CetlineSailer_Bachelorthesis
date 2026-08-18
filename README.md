@@ -79,19 +79,6 @@ output/
    reprocessing raw recordings from scratch (change `rec_id` at the top to
    switch recordings).
 
-## Uploading to OSF
-
-Keep this exact folder structure — it maps directly onto OSF components:
-- Create a component (or top-level folder) called `scripts` and upload the
-  contents of `scripts/`.
-- Optionally a `data` component, if you're allowed to share the (pseudo-
-  anonymized) eclosion timing / genotype tables.
-- Add this `README.md` at the project root — OSF renders it automatically
-  on the project's front page.
-- Keep the project **private** until submission, then switch to **public**
-  to get a permanent link/DOI you can cite in the thesis (see Methods →
-  "Code availability").
-
 ## Note on `watson.two.test()` p-values
 
 R's `circular::watson.two.test()` doesn't return an exact numeric p-value —
